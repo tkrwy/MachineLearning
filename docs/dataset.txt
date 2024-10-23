@@ -1,0 +1,5 @@
+, #samples, #features
+all, 569,30
+train, 398,30
+val,114,30
+test,57,30
